@@ -65,7 +65,7 @@ Please download the dataset <b>Alzheimer's_Disease dataset dataset</b> from the 
 <img src="./projects/Alzheimer's-Disease/_Alzheimer's_Images_.png" width="640" height="auto">
 <br>
 <br>
-1. As a working master dataset, we have created <b>Alzheimer's_Disease_Images_512x512_master</b> ]
+1. As a working master dataset, we have created <b>Alzheimer's_Disease_Images_512x512_master</b> 
 dataset from the original <b>Alzheimer's_Images</b> above
  by using a python script <a href="./projects/Alzheimer's-Disease/expand.py">expand.py</a>.<br>
 <br>
