@@ -21,7 +21,7 @@ h5py==3.7.0
 idna==3.3
 importlib-metadata==4.11.4
 importlib-resources==5.8.0
-joblib==1.1.0
+joblib==1.1.1
 keras==2.8.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.2
@@ -55,7 +55,7 @@ sklearn==0.0
 tensorboard==2.11.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
+tensorflow==2.11.1
 tensorflow-addons==0.17.0
 tensorflow-datasets==4.6.0
 tensorflow-estimator==2.8.0
